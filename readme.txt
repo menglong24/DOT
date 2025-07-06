@@ -14,8 +14,8 @@ Kusama提名池名称：Chinese menglong | vx：menglong24
 加入波卡提名池的视频教程：https://youtu.be/FxSIU19sF5o?si=Nwf6MvwoHGa3etcP
 
 
-
-
+目前的波卡验证人数量：600
+目前的Kusama验证人数量：1000
 
 
 
